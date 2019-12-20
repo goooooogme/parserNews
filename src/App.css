@@ -1,0 +1,13 @@
+.App {
+  padding: 10px 10px;
+}
+
+.viewPost h3 {
+  text-align: center;
+}
+
+.arrow {
+  position: absolute;
+  top:8px;
+  left: 15px;
+}
