@@ -10,3 +10,4 @@
 На Node.js написан парсер новостей с сайта.
 Новости сортируются по региону.
 Можно открыть каждую новость полностью.
+![Image alt](https://github.com/goooooogme/parserNews/blob/master/1.PNG)
