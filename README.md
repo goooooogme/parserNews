@@ -9,7 +9,7 @@
 </ul>
 
 
-На Node.js написан парсер новостей с сайта.
+На Node.js написан парсер новостей с сайтов.
 <br/>
 ![Image alt](https://github.com/goooooogme/parserNews/blob/master/1.PNG)
 <br/>
