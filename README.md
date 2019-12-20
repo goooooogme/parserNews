@@ -1,5 +1,5 @@
 <h1>Агрегатор новостей.</h1>
-![Image alt](https://github.com/goooooogme/parserNews/blob/master/1.PNG)
+
 <p>Стек используемых технологий:</p>
 <ul>
   <li>React</li>
@@ -7,6 +7,7 @@
   <li>Node.js</li>
   <li>Semantic-ui</li>
 </ul>
+![Image alt](https://github.com/goooooogme/parserNews/blob/master/1.PNG)
 
 На Node.js написан парсер новостей с сайта.
 Новости сортируются по региону.
